@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+
 import { DM_Sans, Playfair_Display } from "next/font/google";
 import { Suspense } from "react";
 import "./globals.css";
@@ -26,6 +27,9 @@ export const metadata: Metadata = {
   },
   description:
     "Discover delicious recipes, cook with ingredients you already have, and plan meals with confidence.",
+  verification: {
+    google: "wv_KcW_9amdQHJZLkvr_Cbkg2gg3JLhMadk88Hv9PRs",
+  },
 };
 
 
