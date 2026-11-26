@@ -18,7 +18,6 @@ const displayFont = Playfair_Display({
 });
 
 
-<meta name="google-site-verification" content="wv_KcW_9amdQHJZLkvr_Cbkg2gg3JLhMadk88Hv9PRs" />
 
 export const metadata: Metadata = {
   title: {
@@ -28,6 +27,9 @@ export const metadata: Metadata = {
   description:
     "Discover delicious recipes, cook with ingredients you already have, and plan meals with confidence.",
 };
+
+
+<meta name="google-site-verification" content="wv_KcW_9amdQHJZLkvr_Cbkg2gg3JLhMadk88Hv9PRs" />
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
