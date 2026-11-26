@@ -17,6 +17,8 @@ const displayFont = Playfair_Display({
   subsets: ["latin"],
 });
 
+<meta name="google-site-verification" content="wv_KcW_9amdQHJZLkvr_Cbkg2gg3JLhMadk88Hv9PRs" />
+
 export const metadata: Metadata = {
   title: {
     default: "Smart Recipe Finder | What's In My Kitchen?",
